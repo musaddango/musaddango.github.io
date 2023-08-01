@@ -74,7 +74,7 @@ function strikeThrough(){
 	detectItem().classList.toggle("done");
 }
 
-// Adds event listeners based on various actions
+// Adds event listeners based on various actions - click and keypress respectively
 button.addEventListener("click", addElementAfterClick);
 
 input.addEventListener("keypress", addElementAfterKeypress);
