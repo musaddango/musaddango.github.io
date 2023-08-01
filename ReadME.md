@@ -1,1 +1,1 @@
-This is a new ReadME.md file added to test how it will work on the github repo.
+This is a very simple program that was designed as part of a mini test that allows someone to easily create a list (say a todo list or a shopping list). It allows a user to strike out an item or items when not needed or even delete it altogether... As I said, it's a very simple program. Nothing fancy.
